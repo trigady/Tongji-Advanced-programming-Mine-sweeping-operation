@@ -1,0 +1,29 @@
+﻿  GameEnginePro.cpp
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(173,54): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(176,31): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(210,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(435,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(443,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(491,55): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(495,34): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(495,85): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(508,55): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(515,34): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(515,85): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(534,59): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(543,33): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(543,84): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(588,27): warning C4244: “=”: 从“ULONGLONG”转换到“double”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(642,51): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(645,30): warning C4244: “=”: 从“ULONGLONG”转换到“double”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(663,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(666,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(669,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(674,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(677,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(680,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(729,28): warning C4244: “=”: 从“ULONGLONG”转换到“double”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(807,28): warning C4244: “=”: 从“ULONGLONG”转换到“double”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(834,50): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\ZongHe2_Base\GameEnginePro.cpp(845,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ZongHe2_Base.vcxproj -> C:\Users\19337\Desktop\ZongHe_2_assets\ZongHe2_Base\x64\Debug\ZongHe2_Base.exe
